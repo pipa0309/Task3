@@ -1,3 +1,4 @@
+//forCheck
 package HomeTaskThree;
 
 import java.util.Arrays;
